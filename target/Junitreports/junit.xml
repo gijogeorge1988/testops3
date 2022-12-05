@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.1">
+    <testcase classname="Check SOM Education pages" name="Load Education MD degree URLs" time="0.006">
+        <system-out><![CDATA[Given Open education MD degree tab URLs.....................................passed
+When Load all URLs under education tab MD degree............................passed
+Then MD degree All pages should load........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
